@@ -1,0 +1,15 @@
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\obj\Debug\net6.0\Reflection.csproj.AssemblyReference.cache
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\bin\Debug\net6.0\Reflection.exe
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\bin\Debug\net6.0\Reflection.deps.json
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\bin\Debug\net6.0\Reflection.dll
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\bin\Debug\net6.0\Reflection.pdb
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\obj\Debug\net6.0\Reflection.dll
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\obj\Debug\net6.0\Reflection.pdb
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+D:\Users\eliel\Downloads\TopCoders\repos\Reflection\Reflection\obj\Debug\net6.0\ref\Reflection.dll
